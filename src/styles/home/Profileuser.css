@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.my_profile{
+    display: flex;
+    width: 340px;
+    visibility: visible;
+}
+
+.perfil{
+    border: 1px solid transparent;
+    background-color: white;
+}
+
+.perfil img{
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+
+    border: 2px solid white;
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+.info_profile{
+    margin-left: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.info_profile p:nth-child(1){
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.info_profile p:nth-child(2){
+    color: #adadad;
+}
+
+.change_profile{
+    display: flex;
+    align-items: center;
+    margin-left: 44px;
+}
+
+.change_profile button{
+    color: #0d9af6;
+    border: 1px solid transparent;
+    background-color: white;
+}
+
