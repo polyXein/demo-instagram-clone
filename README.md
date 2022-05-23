@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About this project
+-this project is different, i want to first build all of the components to the each page 
+try to do more easy to scale and to do responsive every page, for this reason i want to break down deeply 
+each function.
+
+the main reason is to practice, to learn more about react and just for fun :)
+-i will work with react hooks like, useState, useContext, useLocalStorage. Also i will use react-flip-move, 
+material Ui, fontawesome, i will use as well bootstrap.
+For future features i was thinking to add functionalities to learn graphQL, 
+also i will add some A.I to only allow upload photos of dogs :) 
+
 ## Available Scripts
 
 In the project directory, you can run:
