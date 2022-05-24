@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Link to the page of this project
+https://nicolasortizsuarez-demo.netlify.app/
+
 ## About this project
 -this project is different, i want to first build all of the components to the each page 
 try to do more easy to scale and to do responsive every page, for this reason i want to break down deeply 
